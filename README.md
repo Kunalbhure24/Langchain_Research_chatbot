@@ -1,6 +1,7 @@
 # Langchain_Research_chatbot
 Chatbot made with langchain and streamlit user interface which answers the question based on the urls of different related documents uploaded by user
-Features
+
+**Features**
 Load URLs or upload text files containing URLs to fetch article content.
 Process article content through LangChain's UnstructuredURL Loader
 Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
